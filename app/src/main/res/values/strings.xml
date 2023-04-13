@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Simple-listview-app-Sandra</string>
+
+    <string-array name="services">
+
+        <item>FULIZA</item>
+        <item>KCB MPESA</item>
+        <item>OKOA JAHAZI</item>
+        <item>SEND MONEY</item>
+        <item>SEND TOKENS</item>
+
+    </string-array>
+</resources>
